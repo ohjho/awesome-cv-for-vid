@@ -40,3 +40,4 @@ aggregation for action classification "](https://rohitgirdhar.github.io/ActionVL
 ## Miscellaneous
 * [video-to-ascii](https://github.com/joelibaceta/video-to-ascii): a python cli to play videos in the terminal using characters as pixels
 * [pysub2](https://github.com/tkarabela/pysubs2): a python library for editing video subtitle files with support for _Advanced SubStation_ (`.ass`) files ([examples](https://pythonhosted.org/pysubs2/tutorial.html))
+* [webvtt-py](https://github.com/glut23/webvtt-py): read, write, and segment [WebVTT](https://coconut.co/webvtt) caption files in Python
